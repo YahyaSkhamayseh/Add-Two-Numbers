@@ -11,19 +11,19 @@ Example 1:
 
 ![image](https://user-images.githubusercontent.com/67537261/173777034-657fdae1-b934-46b5-a025-4e25b002b0cf.png)
 
-> Input: l1 = [2,4,3], l2 = [5,6,4]__
-> Output: [7,0,8]__
-> Explanation: 342 + 465 = 807.__
+> Input: l1 = [2,4,3], l2 = [5,6,4] <br />
+> Output: [7,0,8] <br />
+> Explanation: 342 + 465 = 807. <br />
 
 Example 2:
 
-> Input: l1 = [0], l2 = [0]__
-> Output: [0]__
+> Input: l1 = [0], l2 = [0] <br />
+> Output: [0] <br />
 
 Example 3:
 
-> Input: l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]__
-> Output: [8,9,9,9,0,0,0,1]__
+> Input: l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9] <br />
+> Output: [8,9,9,9,0,0,0,1] <br />
 
 Constraints:
 
